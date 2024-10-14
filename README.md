@@ -2,4 +2,4 @@
 
 ## 記名欄
 - maikuradentetu Hello, World!
-- kowanko Hello, World!!!!!
+- kowanko Hello, World!!!!!(2)
